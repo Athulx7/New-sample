@@ -1,0 +1,417 @@
+ @media(max-width:600px) {
+   body{
+      overflow-x: hidden;
+   }
+     .navbars {
+         height: 20rem;
+     }
+
+
+     .heading h5 {
+        position: relative;
+        left: 10px;
+        font-size: 70px;
+        letter-spacing: 10px;
+    }
+     
+
+     .heading {
+        width: 60%;
+        height: 10rem;
+        position: relative;
+        left: 50px;
+        top: 70px;
+
+     }
+
+     .heading h6 {
+        font-size: 36px;
+        width: 90%;
+        position: relative;
+        left: 19px;
+        letter-spacing: 4px;
+        font-weight: 400;
+     }
+
+     .navbar-content {
+         display: none;
+     }
+
+     #first-body-section {
+         position: relative;
+         top: 220px;
+         width: 65rem;
+     }
+
+     .first-body {
+
+         width: 100%;
+         position: relative;
+         top: 33px;
+         height: 100rem;
+         left: 20px;
+     }
+
+     .heading-large {
+         height: 40rem;
+         position: relative;
+         top: 100px;
+     }
+
+     .first-heading {
+        width: 72%;
+    height: 100px;
+
+     }
+
+     .first-heading h4 {
+        font-size: 40px;
+        letter-spacing: 13px;
+     }
+
+     .second-heading {
+         width: 100%;
+         position: relative;
+         top: 150px;
+         
+         height: 160px;
+     }
+
+     .second-heading h1 {
+        font-size: 9rem;
+        letter-spacing: 36px;
+        position: relative;
+        left: 15px;
+
+     }
+     .third-heading{
+        width: 72%;
+        height: 100px;
+        position: relative;
+        top: 200px;
+     }
+     .third-heading h4{
+        font-size: 40px;
+        letter-spacing: 13px;
+     }
+     .first-button{
+        width: 40%;
+    height: 7rem;
+    position: relative;
+    top: 7rem;
+    left: 20rem;
+     }
+     #first-btn{
+        height: 7rem;
+        width: 100%;
+        font-size: 50px;
+     }
+     #about-section{
+       
+        position: relative;
+        top: 270px;
+        width: 169%;
+     }
+    
+
+
+
+     #details-section{
+        position: relative;
+        top: 100rem;
+        
+     }
+     .about-first{
+        height: 60rem;
+        position: relative;
+        left: 38px;
+        width: 100%;
+     }
+     .about-line{
+        height: 7px;
+        width: 100px;
+        background-color: black;
+        position: relative;
+        top: 4rem;
+        left: 10px;
+     }
+     .about-us{
+        width: 40%;
+        height: 18rem;
+        position: relative;
+        top: 6rem;
+        left: 10px;
+     }
+     .about-us h2{
+        font-size: 100px;
+        
+     }
+     .about-content{
+        width: 100%;
+    height: 50rem;
+     }
+     .about-content p{
+        font-size: 60px;
+        position: relative;
+        width: 63rem
+     }
+     .about-buttons{
+        width: 100%;
+    height: 15rem;
+    position: relative;
+    top: 52rem;
+     }
+     .button-one{
+        width: 45%;
+    height: 7rem;
+    position: relative;
+    left: 150px;
+     }
+     .button-one button{
+        height: 7rem;
+        width: 100%;
+        font-size: 40px;
+     }
+     .button-second{
+        width: 50%;
+    height: 7rem;
+    position: relative;
+    left: 505px;
+    top: -112px;
+     }
+     .button-second button{
+        width: 90%;
+        height: 7rem;
+        font-size: 40px;
+
+     }
+     .about-image{
+        position: relative;
+        left: -1rem;
+        top: 50rem;
+        width: 150%;
+        height: 50rem;
+    }
+
+
+
+
+    #details-section{
+      position: relative;
+      top: 157rem;
+      left: 13px;
+      width: 66rem;
+      height: 200rem;
+    }
+    .details-start{
+      width: 82%;
+        height: 100rem;
+    }
+    .details-head{
+      width: 90%;
+      height: 15rem;
+      position: relative;
+      top: 90px;
+      left: -50px;
+    }
+    .details-head h2{
+      font-size: 100px;
+      letter-spacing: 13px;
+    }
+    .details-start .about-line{
+      position: relative;
+      left: -50px;
+    }
+    .detail-details{
+      display: grid;
+      height: 100rem;
+      gap: 20px;
+  
+    }
+    .first-detail-block{
+      width: 55rem;
+    border: solid black 10px;
+    height: 50rem;
+    position: relative;
+    left: -10px;
+    top: 10px;
+    }
+    .detail-block-heading{
+      height: 10rem;
+    }
+    .detail-block-heading h2{
+      font-size: 60px;
+    }
+    .detail-about{
+      height: 10rem;
+    }
+    .detail-about p{
+      font-size: 45px;
+    }
+    .detail-line{
+      position: relative;
+    left: 220px;
+    top: 80px;
+    }
+    .detail-block-button{
+      width: 45%;
+      height: 7rem;
+      position: relative;
+      left: 225px;
+      top: 200px;
+    }
+    .detail-block-button button{
+      height: 7rem;
+    width: 100%;
+    font-size: 40px;
+    }
+    .more-details-button{
+      left: 230px;
+      width: 45%;
+      height: 7rem;
+      position: relative;
+      top: 70rem;
+    }
+    .more-details-button button{
+      height: 7rem;
+    width: 100%;
+    font-size: 40px;
+    }
+
+
+
+     #contact-section{
+
+        position: relative;
+        top: 157rem;
+        height: 150rem;
+        left: 0px;
+        width: 67rem;
+     }
+     .contact-details{
+      width: 64rem;
+      position: relative;
+      left: 2rem;
+      top: 3rem;
+      height: 100rem;
+     }
+     .contact-head{
+      width: 40rem;
+      height: 10rem;
+      margin-top: 20px;
+
+     }
+     .contact-head h3{
+      font-size: 80px;
+      letter-spacing: 13px;
+      font-weight: 700;
+     }
+     .contact{
+      width: 50rem;
+
+     }
+     .contact-place
+     {
+      width: 45rem;
+      height: 11rem;
+     }
+     .contact-place p{
+      font-size: 55px;
+     }
+     .contact-phone{
+      width: 45rem;
+      height: 11rem;
+     }
+     .contact-phone p{
+      font-size: 55px;
+     }
+     .contact-email{
+      width: 45rem;
+      height: 11rem;
+     }
+     .contact-email p{
+      font-size: 55px;
+     }
+     .contact-logos{
+      width: 55rem;
+      height: 10rem;
+      font-size: 60px;
+
+     }
+     #message-box{
+      width: 60rem;
+      height: 15rem;
+      border: solid black 5px;
+     }
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     .contact-form{
+      position: relative;
+      bottom: -22rem;
+      left: 0px;
+      width: 63rem;
+      height: 50rem;
+     }
+     .contact-form span{
+      font-size: 50px;
+     }
+     .contact-form input{
+      width: 60rem;
+    height: 100px;
+    border: solid black 5px;
+     }
+
+     .contact-form-submit{
+      width: 60rem;
+    height: 7rem;
+    position: relative;
+    left: 0px;
+    top: 100px;
+    font-size: 50px;
+     }
+     .final-div{
+      position: relative;
+      top: 50rem;
+      width: 50rem;
+      height: 5rem;
+     }
+     .final-div p{
+      font-size: 30px;
+     }
+
+
+
+
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+ 
